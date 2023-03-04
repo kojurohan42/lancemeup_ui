@@ -9,6 +9,7 @@ janehopper@gmail.com
 
 # and here is a demo of the application
 
-![demo](https://user-images.githubusercontent.com/60424631/222885912-94ec5cc3-024a-4e59-a0a4-43b1239bf32b.mp4)
-<video src="https://user-images.githubusercontent.com/60424631/222885912-94ec5cc3-024a-4e59-a0a4-43b1239bf32b.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+
+https://user-images.githubusercontent.com/60424631/222886083-7cb23d9d-e3db-48d5-ac6c-773e1f42ddd0.mp4
+
