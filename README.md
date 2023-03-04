@@ -4,7 +4,7 @@ This is a intern task project provided by lanceme_up and the required info are g
 
 #email
 
-janehopper@gmail.com
+janecopper@gmail.com
 
 #password
 
