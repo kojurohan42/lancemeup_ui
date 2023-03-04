@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588524842564",
+    "project_id": "lancemeup-4eda4",
+    "storage_bucket": "lancemeup-4eda4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588524842564:android:bbdc1c45995a31117d5611",
+        "android_client_info": {
+          "package_name": "com.example.lanceme_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588524842564-mm62btq26kdf38trfag8tf5b43fgcmii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKjSQJDKiSLyDXjESjRFoPhpjXF9RNRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588524842564-mm62btq26kdf38trfag8tf5b43fgcmii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
