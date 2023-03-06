@@ -10,6 +10,9 @@ janecopper@gmail.com
 
 123456
 
+
+For this project, firebase was implemented to authenticate.
+
 # and here is a demo of the application
 
 
